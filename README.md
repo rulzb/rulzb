@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rulzb
 - 👀 I’m interested in coding and Product Management
 - 🌱 I’m currently learning how to code and not die in the process
-- 💞️ I’m looking to collaborate on learnign
-- 📫 How to reach me rhbustamante@gmail.com
+- 🫡 I’m looking to collaborate on learning
+- 📫 How to reach me rulzb.contacto@gmail.com
 
 <!---
 rulzb/rulzb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
